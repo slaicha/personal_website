@@ -1,0 +1,46 @@
+---
+title: "Education"
+---
+
+**Duke Kunshan University (DKU) / Duke University (Duke)** **Dual Degree**
+
+*Aug 2021 - Aug 2025*
+
+-   B.S. in Data Science (by DKU) in Kunshan, China
+-   B.S. in Interdisciplinary Studies (Subplan: Data Science) (by Duke) in Durham, NC, USA
+
+§ Relevant Courses: Statistical Machine Learning, Computer Architecture, Advanced Data Visualization
+
+*Aug - Dec 2022*
+
+-   IES Abroad Barcelona, Spain
+
+§ Relevant Courses: Data Structures and Algorithms, Art and Design
+
+### Honors
+
+-   Dean's List with Distinction: Fall 2021
+
+-   Dean's List: Fall 2022
+
+### **Skills**
+
+Python, Java, C (programming language), R, Excel, Git, Gitlab, TensorFlow, PyTorch, QGIS/ArcGIS, React, MS Office
+
+### **Languages**
+
+English (fluent), Arabic (fluent), French (fluent), Chinese Mandarin (Elementary), Spanish (Elementary)
+
+### Class Projects
+
+#### Music Recommendation System using Clustering Algorithms
+This project is the final project of the course Elements of Machine Learning that I took at Duke Kunshan University. Please open this [link](https://github.com/slaicha/MusicRecommendationSystem)
+ for the report and code of project.
+ 
+#### Report on Federated Learning 
+I wrote a [report](Math466_Final_Project.pdf) on Federated Learning, exploring the different aggregation algorithms as part of the course project for the Mathematics for Machine Learning course at Duke University.
+ 
+#### Advanced Data Vizualization
+
+Please take a [look](https://ameyasr24.shinyapps.io/project-2-app-ex/) at our data visualization project, where we visualized the growing concern of water scarcity around the world.
+

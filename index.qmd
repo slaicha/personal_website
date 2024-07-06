@@ -1,11 +1,29 @@
 ---
-title: "my_website"
+title: "Welcome!"
+fig-cap-location: top
 ---
 
-This is a Quarto website.
+Welcome to my website! Here you'll find information about my education, research experience, professional experience, and leadership and service experience.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-```{r}
-1 + 1
-```
+Enjoy some of my pictures from the last few years at Duke and Duke Kunshan Universtity!
+
+::: {layout="[[1,1], [1], [1]]"}
+![Wandering through nature’s embrace in Suzhou, China             ](images/IMG20230224113816.jpg){.lightbox}
+
+![Stepping into the light of knowledge at Duke University](images/IMG20240111143112.jpg){.lightbox}
+
+![Poster Presentation for my Bass Connections Project at Duke University](images/img20240417160233.jpg){.lightbox}
+
+![My Research Team during Summer 2023 at Duke Kunshan Campus ](images/mmexport1683992907848.jpg){.lightbox}
+:::
+
+
+
+
+
+
+
+
+
+

@@ -2,14 +2,42 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "my_website",
+    "title": "Welcome!",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Welcome to my website! Here you’ll find information about my education, research experience, professional experience, and leadership and service experience.\nEnjoy some of my pictures from the last few years at Duke and Duke Kunshan Universtity!\n\n\n\n\n\nWandering through nature’s embrace in Suzhou, China\n\n\n\n\n\n\n\nStepping into the light of knowledge at Duke University\n\n\n\n\n\n\n\n\n\nPoster Presentation for my Bass Connections Project at Duke University\n\n\n\n\n\n\n\n\n\nMy Research Team during Summer 2023 at Duke Kunshan Campus"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "Education.html",
+    "href": "Education.html",
+    "title": "Education",
+    "section": "",
+    "text": "Duke Kunshan University (DKU) / Duke University (Duke) Dual Degree\nAug 2021 - Aug 2025\n\nB.S. in Data Science (by DKU) in Kunshan, China\nB.S. in Interdisciplinary Studies (Subplan: Data Science) (by Duke) in Durham, NC, USA\n\n§ Relevant Courses: Statistical Machine Learning, Computer Architecture, Advanced Data Visualization\nAug - Dec 2022\n\nIES Abroad Barcelona, Spain\n\n§ Relevant Courses: Data Structures and Algorithms, Art and Design\n\nHonors\n\nDean’s List with Distinction: Fall 2021\nDean’s List: Fall 2022\n\n\n\nSkills\nPython, Java, C (programming language), R, Excel, Git, Gitlab, TensorFlow, PyTorch, QGIS/ArcGIS, React, MS Office\n\n\nLanguages\nEnglish (fluent), Arabic (fluent), French (fluent), Chinese Mandarin (Elementary), Spanish (Elementary)\n\n\nClass Projects\n\nMusic Recommendation System using Clustering Algorithms\nThis project is the final project of the course Elements of Machine Learning that I took at Duke Kunshan University. Please open this link for the report and code of project.\n\n\nReport on Federated Learning\nI wrote a report on Federated Learning, exploring the different aggregation algorithms as part of the course project for the Mathematics for Machine Learning course at Duke University.\n\n\nAdvanced Data Vizualization\nPlease take a look at our data visualization project, where we visualized the growing concern of water scarcity around the world."
+  },
+  {
+    "objectID": "Research.html",
+    "href": "Research.html",
+    "title": "Research",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "Experience.html",
+    "href": "Experience.html",
+    "title": "Experience",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "Leadership & Service.html",
+    "href": "Leadership & Service.html",
+    "title": "Leadership & Service",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
   }
