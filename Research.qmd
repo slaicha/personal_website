@@ -2,8 +2,49 @@
 title: "Research"
 ---
 
-About this site
+### Quantifying Wetland Carbon Emissions in the Southeastern United States
 
-```{r}
-1 + 1
-```
+#### A Duke Bass Connections Team
+
+#### Aug 2023 - May 2024
+
+-   Implemented state of the art artificial neural networks for predicting regional-scale long-term CO2 flux data product for southeastern U.S. wetlands using TensorFlow and automatically tuned them with KerasTuner.
+-   Processed historical and future spatially explicit data on climate and hydrology.
+-   Generated monthly fine-gridded data products depicting both historical and future CO2 fluxes from wetlands in the Southeastern US.
+
+https://bassconnections.duke.edu/project-teams/quantifying-wetland-carbon-emissions-southeastern-united-states-2023-2024
+
+![Poster](images/bass-connections-poster-template-themes-2024_0.pptx.png){.lightbox}
+
+### DKU Edge Intelligence Lab
+
+#### Machine Leanring Summer Research Scholar
+
+#### May - Aug 2023
+
+-   Implemented sleep efficiency machine learning algorithms for FedCampus app, a health-related privacy-preserving application for the Duke Kunshan University campus. The data source is users' edge devices such as their smartwatches and mobile phones.
+-   Trained the model in a federated learning setting to enhance privacy and implemented it using automated hyper-parameter tuning and timeseries forecasting techniques for accurate predictions.
+
+##### Key Technologies:
+
+Tensorflow, PyTorch, Times Series Forecasting, Keras Tuner
+
+##### Project Repo:
+
+https://github.com/slaicha/fedCampus
+
+##### Project Report
+
+https://docs.google.com/document/d/14H0UPGZn32G3ihNV9H3IM5oeapewiNdy6prT77HLrGA/edit?usp=sharing
+
+### DKU Sustainability Report
+
+#### Sep 2022 - Nov 2023
+
+-   Contibuted to writing the first [DKU Water Sustainability Report](https://newstatic.dukekunshan.edu.cn/dkumain/wp-content/uploads/2023/11/14214957/2022-DKU-Sustainability-Report-Sustainable-DKU.pdf) by interviewing DKU Campus Operations about water sustainability measures on campus, analyzing water consumption data, and researching relevant indicators of water sustainability
+
+### Enery Transition During Energy Crisis: Cape Town's Experience
+
+#### May - July 2024
+
+https://bigdata.duke.edu/projects/energy-transition-during-energy-crisis-cape-towns-experience/

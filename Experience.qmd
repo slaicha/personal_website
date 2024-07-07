@@ -2,8 +2,43 @@
 title: "Experience"
 ---
 
-About this site
+### Website Developer and Hackathon Organizer
+#### HackDKU – DKU Computer Science Club	
+##### Aug 2023 - Mar 2024
+*	Facilitated the organization of HackDuke Online at DKU by inviting mentors and preparing onsite venues
+*	Contributed to building [HackDKU](https://www.hackdku.org/) website, the inaugural annual hackathon event on Duke Kunshan University's campus.
+ which attracted more than 100 participants from different universities in China
+ 
+### Peer Mentor 
+#### DKU Office of Undergraduate Advising
+##### July 2022 - July 2023
+*	Served as an advisor to 10 first year students and provided information to them about academics, campus resources, DKU community experience, etc.
+*	Hosted and assisted in the Advising office’s events such as mentees-mentors mixer event, major fair, and the scavenger hunt.
+*	Was awarded outstanding mentee certificate of the year.
 
-```{r}
-1 + 1
-```
+### Teaching Assistant and Orientation Leader	
+#### Aug-Oct 2022
+*	Supported the teaching of DKU101, an introductory course to first year students about DKU and campus resources.
+*	Tracked the attendance of 350 students using Excel (two classes every week for seven weeks) and reported back to instructors.
+*	Assisted in and organized activities for first-year students during their orientation week.
+
+
+### Remote Corporate Venture Capital & Business Analytics Internship
+#### HP Tech Ventures & Paragon One	
+##### Jun - Aug 2022
+*	Researched startup metrics, industry data, team, and business models.
+*	Determined product differentiation and strategy across different startups.
+*	[Recommended](https://duke.app.box.com/s/5qmzcdv8msqi3eq8tl48agjktpvximey) attractive startups to HP officials for further investment due diligence.
+
+### Internship @ Huochai	
+#### Feb - Apr 2022
+*	Brainstormed and developed detailed [implementation plans](https://duke.app.box.com/s/n4de3w7tsu1izelpwaumrvyma6t5hj66) of online charity events for Huochai Box to engage teachers in rural areas, through group discussions, information comparison, and actual situation debugging.
+
+### Career Student Ambassador
+#### DKU Career Services Office
+##### Jan-May 2022
+*	Served as a bridge between the Career Service office and 90 DKU first-year students by presenting to them the office’s services and reporting their questions and concerns.
+*	Helped students with resumes and their career development.
+
+ 
+

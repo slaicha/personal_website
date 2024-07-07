@@ -2,8 +2,17 @@
 title: "Leadership & Service"
 ---
 
-About this site
+### Volunteer
+#### Duke Femmes+ Club
+Facilitated the capstone event of FEMMES+, is a free one-day outreach program introducing students from Durham (4th through 6th grade) to math, science and engineering.
 
-```{r}
-1 + 1
-```
+### Volunteer teacher
+#### DKU Volunteer Association
+##### May 2023 & Nov 2023
+
+* Taught 7-11 years old Chinese children English classes and prepared class materials and activities for them.
+
+### DKU Student Ambassador
+#### Office of International Enrollment Management at DKU
+##### Dec 2022 - Mar 2024
+* Served as a facilitator on Discord and helped prospective students explore DKU facilities and services.
