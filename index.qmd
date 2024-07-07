@@ -3,7 +3,7 @@ title: "Welcome!"
 fig-cap-location: top
 ---
 
-Welcome to my website! Here you'll find information about my education, research experience, professional experience, and leadership and service experience.
+Welcome to my website! My name is Aicha Slaitane. Here you'll find information about my education, research experience, professional experience, and leadership and service experience.
 
 Enjoy some of my pictures from the last few years at Duke and Duke Kunshan Universtity!
 
