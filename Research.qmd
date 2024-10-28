@@ -2,9 +2,26 @@
 title: "Research"
 ---
 
-### Quantifying Wetland Carbon Emissions in the Southeastern United States
+### Incentive Mechanism Design in Federated Learning
 
-#### A Duke Bass Connections Team
+#### Aug 2024 - present
+
+Conducting research on incentive mechanism design in federated learning, particularly leveraging contract theory to design the mechanism.
+
+
+### Energy Transition During Energy Crisis: Cape Town's Experience
+
+#### May 2024 - present
+
+- Developing deep learning algorithm for detection of rooftop and other solar installations in Cape Town
+- Cleaned and analyzed 30 gigabytes of electricity timeseries transaction data of the city of Cape Town	
+
+https://bassconnections.duke.edu/project-teams/energy-transition-during-energy-crisis-cape-towns-experience-2024-2025
+
+![Summer Session Poster](images/Data+.jpg){.lightbox}
+
+
+### Quantifying Wetland Carbon Emissions in the Southeastern United States
 
 #### Aug 2023 - May 2024
 
@@ -16,9 +33,10 @@ https://bassconnections.duke.edu/project-teams/quantifying-wetland-carbon-emissi
 
 ![Poster](images/bass-connections-poster-template-themes-2024_0.pptx.png){.lightbox}
 
-### DKU Edge Intelligence Lab
 
-#### Machine Leanring Summer Research Scholar
+### FedCampus
+
+#### Machine Learning Summer Research Scholar - DKU Edge Intelligence Lab
 
 #### May - Aug 2023
 
@@ -41,10 +59,5 @@ https://docs.google.com/document/d/14H0UPGZn32G3ihNV9H3IM5oeapewiNdy6prT77HLrGA/
 
 #### Sep 2022 - Nov 2023
 
--   Contibuted to writing the first [DKU Water Sustainability Report](https://newstatic.dukekunshan.edu.cn/dkumain/wp-content/uploads/2023/11/14214957/2022-DKU-Sustainability-Report-Sustainable-DKU.pdf) by interviewing DKU Campus Operations about water sustainability measures on campus, analyzing water consumption data, and researching relevant indicators of water sustainability
+-   Collaborated with the water team to write the water sustainability section of the first [DKU Water Sustainability Report](https://newstatic.dukekunshan.edu.cn/dkumain/wp-content/uploads/2023/11/14214957/2022-DKU-Sustainability-Report-Sustainable-DKU.pdf) by interviewing DKU Campus Operations about water sustainability measures on campus, analyzing water consumption data, and researching relevant indicators of water sustainability
 
-### Enery Transition During Energy Crisis: Cape Town's Experience
-
-#### May - July 2024
-
-https://bigdata.duke.edu/projects/energy-transition-during-energy-crisis-cape-towns-experience/

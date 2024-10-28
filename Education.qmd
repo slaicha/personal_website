@@ -2,45 +2,49 @@
 title: "Education"
 ---
 
-**Duke Kunshan University (DKU) / Duke University (Duke)** **Dual Degree**
+### Duke University / Duke Kunshan University (Dual Degree)  
+*Aug 2021 - Aug 2025*  
 
-*Aug 2021 - Aug 2025*
+- **B.S. in Interdisciplinary Studies** (Data Science) awarded by Duke University, Durham, NC, USA  
+- **B.S. in Data Science** awarded by DKU, Kunshan, China  
 
--   B.S. in Data Science (by DKU) in Kunshan, China
--   B.S. in Interdisciplinary Studies (Subplan: Data Science) (by Duke) in Durham, NC, USA
+  **Relevant Courses**:  
+  - Statistical Machine Learning, Computer Architecture, Advanced Data Visualization, Advanced Linear Algebra
 
-§ Relevant Courses: Statistical Machine Learning, Computer Architecture, Advanced Data Visualization
+### IES Abroad, Barcelona, Spain  
+*Aug - Dec 2022*  
 
-*Aug - Dec 2022*
+- **Relevant Courses**:  
+  - Data Structures and Algorithms, Art and Design
 
--   IES Abroad Barcelona, Spain
+## Honors
 
-§ Relevant Courses: Data Structures and Algorithms, Art and Design
+- Dean's List with Distinction: Fall 2021  
+- Dean's List: Fall 2022  
 
-### Honors
+## Skills
 
--   Dean's List with Distinction: Fall 2021
+- **Programming**: Python, Java, C, R  
+- **Tools**: Excel, Git, Gitlab, TensorFlow, PyTorch, QGIS/ArcGIS, React, MS Office  
 
--   Dean's List: Fall 2022
+## Languages
 
-### **Skills**
+- English (Fluent), Arabic (Fluent), French (Fluent), Chinese Mandarin (Elementary), Spanish (Elementary)  
 
-Python, Java, C (programming language), R, Excel, Git, Gitlab, TensorFlow, PyTorch, QGIS/ArcGIS, React, MS Office
+## Class Projects
 
-### **Languages**
+### Survey on Incentive Mechanism Design in Federated Learning
+Conducted as part of the CS402 (Artificial Intelligence) final project.  
+**Link**: [Survey PDF](CS402_FP.pdf)
 
-English (fluent), Arabic (fluent), French (fluent), Chinese Mandarin (Elementary), Spanish (Elementary)
+### Music Recommendation System Using Clustering Algorithms
+Final project for Elements of Machine Learning at Duke Kunshan University.  
+**Link**: [GitHub Repository](https://github.com/slaicha/MusicRecommendationSystem)
 
-### Class Projects
+### Report on Aggregation Strategies in Federated Learning
+A project report exploring aggregation algorithms, part of the Mathematics for Machine Learning course at Duke University.  
+**Link**: [Report PDF](Math466_Final_Project.pdf)
 
-#### Music Recommendation System using Clustering Algorithms
-This project is the final project of the course Elements of Machine Learning that I took at Duke Kunshan University. Please open this [link](https://github.com/slaicha/MusicRecommendationSystem)
- for the report and code of project.
- 
-#### Report on Federated Learning 
-I wrote a [report](Math466_Final_Project.pdf) on Federated Learning, exploring the different aggregation algorithms as part of the course project for the Mathematics for Machine Learning course at Duke University.
- 
-#### Advanced Data Vizualization
-
-Please take a [look](https://ameyasr24.shinyapps.io/project-2-app-ex/) at our data visualization project, where we visualized the growing concern of water scarcity around the world.
-
+### Advanced Data Visualization Project
+Visualization project in STATS401 (Advanced Data Visualization), focusing on global water scarcity concerns.  
+**Link**: [Visualization App](https://ameyasr24.shinyapps.io/project-2-app-ex/)
