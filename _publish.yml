@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: 7c5f63ce-4b7f-4f8b-a195-12a8b415a6fc
+      url: 'https://slaicha24.quarto.pub/personal_website'

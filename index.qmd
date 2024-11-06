@@ -7,7 +7,7 @@ Welcome to my website! My name is Aicha Slaitane. Here you'll find information a
 
 Enjoy some of my pictures from the last few years at Duke and Duke Kunshan Universtity!
 
-::: {layout="[[1,1], [1], [1]]"}
+::: {layout="[[1,1], [1], [1], [1], [1]]"}
 ![Wandering through nature's embrace in Suzhou, China](images/IMG20230224113816.jpg){.lightbox}
 
 ![Stepping into the light of knowledge at Duke University](images/IMG20240111143112.jpg){.lightbox}
@@ -15,4 +15,11 @@ Enjoy some of my pictures from the last few years at Duke and Duke Kunshan Unive
 ![Poster Presentation for my Bass Connections Project at Duke University](images/img20240417160233.jpg){.lightbox}
 
 ![My Research Team during Summer 2023 at Duke Kunshan Campus](images/mmexport1683992907848.jpg){.lightbox}
+
+
+![Football Vasrity Team Spirit!](images/22.45.24.jpg){.lightbox}
+
+
+![After Scoring a Goal!](images/22.48.34.jpg){.lightbox}
+
 :::

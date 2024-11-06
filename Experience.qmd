@@ -18,13 +18,6 @@ title: "Experience"
 
 
 ### Website Developer and Hackathon Organizer
-#### DKU Academic Resource Center	
-##### Aug 2024 - present
-* Tutored STATS302 – Elements of Machine Learning and STATS303 – Statistical Machine Learning
-*	Assisted students in learning the fundamental ML algorithms (SVM, Decision Trees, Bayesian Inference, etc.) through drop-in sessions
-
-
-### Website Developer and Hackathon Organizer
 #### HackDKU – DKU Computer Science Club	
 ##### Aug 2023 - Mar 2024
 *	Facilitated the organization of HackDuke Online at DKU by inviting mentors and preparing onsite venues
