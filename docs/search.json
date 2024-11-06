@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "Leadership & Service.html",
+    "href": "Leadership & Service.html",
+    "title": "Leadership & Service",
+    "section": "",
+    "text": "Volunteer\n\nDuke Femmes+ Club\nFacilitated the capstone event of FEMMES+, is a free one-day outreach program introducing students from Durham (4th through 6th grade) to math, science and engineering.\n\n\n\nVolunteer teacher\n\nDKU Volunteer Association\n\nMay 2023 & Nov 2023\n\nTaught 7-11 years old Chinese children English classes and prepared class materials and activities for them.\n\n\n\n\n\nDKU Student Ambassador\n\nOffice of International Enrollment Management at DKU\n\nDec 2022 - Mar 2024\n\nServed as a facilitator on Discord and helped prospective students explore DKU facilities and services."
+  },
+  {
+    "objectID": "Experience.html",
+    "href": "Experience.html",
+    "title": "Experience",
+    "section": "",
+    "text": "Peer Tutor\n\nAug 2024 - present\n\nTutored STATS302 – Elements of Machine Learning\nAssisted students in learning the fundamental ML algorithms (SVM, Decision Trees, Bayesian Inference, etc.) through drop-in sessions\n\n\n\n\nPeer Mentor\n\nDKU Office of Undergraduate Advising\n\nJuyl 2022 - July 2023 & Aug 2024 - present\n\nServed as an advisor to 10 first year students and provided information to them about academics, campus resources, DKU community experience, etc.\nHosted and assisted in the Advising office’s events such as mentees-mentors mixer event, major fair, and the scavenger hunt.\nWas awarded outstanding mentee certificate of the year in 2023.\n\n\n\n\n\nWebsite Developer and Hackathon Organizer\n\nHackDKU – DKU Computer Science Club\n\nAug 2023 - Mar 2024\n\nFacilitated the organization of HackDuke Online at DKU by inviting mentors and preparing onsite venues\nContributed to building HackDKU website, the inaugural annual hackathon event on Duke Kunshan University’s campus. which attracted more than 100 participants from different universities in China\n\n\n\n\n\nRemote Corporate Venture Capital & Business Analytics Internship\n\nHP Tech Ventures & Paragon One\n\nJun - Aug 2022\n\nResearched startup metrics, industry data, team, and business models.\nDetermined product differentiation and strategy across different startups.\nRecommended attractive startups to HP officials for further investment due diligence.\n\n\n\n\n\nInternship @ Huochai\n\nFeb - Apr 2022\n\nBrainstormed and developed detailed implementation plans of online charity events for Huochai Box to engage teachers in rural areas, through group discussions, information comparison, and actual situation debugging.\n\n\n\n\nCareer Student Ambassador\n\nDKU Career Services Office\n\nJan-May 2022\n\nServed as a bridge between the Career Service office and 90 DKU first-year students by presenting to them the office’s services and reporting their questions and concerns.\nHelped students with resumes and their career development."
+  },
+  {
+    "objectID": "Education.html",
+    "href": "Education.html",
+    "title": "Education",
+    "section": "",
+    "text": "Aug 2021 - Aug 2025\n\nB.S. in Interdisciplinary Studies (Data Science) awarded by Duke University, Durham, NC, USA\n\nB.S. in Data Science awarded by DKU, Kunshan, China\nRelevant Courses:\n\nStatistical Machine Learning, Computer Architecture, Advanced Data Visualization, Advanced Linear Algebra"
+  },
+  {
+    "objectID": "Education.html#honors",
+    "href": "Education.html#honors",
+    "title": "Education",
+    "section": "Honors",
+    "text": "Honors\n\nDean’s List with Distinction: Fall 2021\n\nDean’s List: Fall 2022"
+  },
+  {
+    "objectID": "Education.html#skills",
+    "href": "Education.html#skills",
+    "title": "Education",
+    "section": "Skills",
+    "text": "Skills\n\nProgramming: Python, Java, C, R\n\nTools: Excel, Git, Gitlab, TensorFlow, PyTorch, QGIS/ArcGIS, React, MS Office"
+  },
+  {
+    "objectID": "Education.html#languages",
+    "href": "Education.html#languages",
+    "title": "Education",
+    "section": "Languages",
+    "text": "Languages\n\nEnglish (Fluent), Arabic (Fluent), French (Fluent), Chinese Mandarin (Elementary), Spanish (Elementary)"
+  },
+  {
+    "objectID": "Education.html#class-projects",
+    "href": "Education.html#class-projects",
+    "title": "Education",
+    "section": "Class Projects",
+    "text": "Class Projects\n\nSurvey on Incentive Mechanism Design in Federated Learning\nConducted as part of the CS402 (Artificial Intelligence) final project.\nLink: Survey PDF\n\n\nMusic Recommendation System Using Clustering Algorithms\nFinal project for Elements of Machine Learning at Duke Kunshan University.\nLink: GitHub Repository\n\n\nReport on Aggregation Strategies in Federated Learning\nA project report exploring aggregation algorithms, part of the Mathematics for Machine Learning course at Duke University.\nLink: Report PDF\n\n\nAdvanced Data Visualization Project\nVisualization project in STATS401 (Advanced Data Visualization), focusing on global water scarcity concerns.\nLink: Visualization App"
+  },
+  {
+    "objectID": "Research.html",
+    "href": "Research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Incentive Mechanism Design in Federated Learning\n\nAug 2024 - present\nConducting research on incentive mechanism design in federated learning, particularly leveraging contract theory to design the mechanism.\n\n\n\nEnergy Transition During Energy Crisis: Cape Town’s Experience\n\nMay 2024 - present\n\nDeveloping deep learning algorithm for detection of rooftop and other solar installations in Cape Town\nCleaned and analyzed 30 gigabytes of electricity timeseries transaction data of the city of Cape Town\n\nhttps://bassconnections.duke.edu/project-teams/energy-transition-during-energy-crisis-cape-towns-experience-2024-2025\n\n\n\nSummer Session Poster\n\n\n\n\n\nQuantifying Wetland Carbon Emissions in the Southeastern United States\n\nAug 2023 - May 2024\n\nImplemented state of the art artificial neural networks for predicting regional-scale long-term CO2 flux data product for southeastern U.S. wetlands using TensorFlow and automatically tuned them with KerasTuner.\nProcessed historical and future spatially explicit data on climate and hydrology.\nGenerated monthly fine-gridded data products depicting both historical and future CO2 fluxes from wetlands in the Southeastern US.\n\nhttps://bassconnections.duke.edu/project-teams/quantifying-wetland-carbon-emissions-southeastern-united-states-2023-2024\n\n\n\nPoster\n\n\n\n\n\nFedCampus\n\nMachine Learning Summer Research Scholar - DKU Edge Intelligence Lab\n\n\nMay - Aug 2023\n\nImplemented sleep efficiency machine learning algorithms for FedCampus app, a health-related privacy-preserving application for the Duke Kunshan University campus. The data source is users’ edge devices such as their smartwatches and mobile phones.\nTrained the model in a federated learning setting to enhance privacy and implemented it using automated hyper-parameter tuning and timeseries forecasting techniques for accurate predictions.\n\n\nKey Technologies:\nTensorflow, PyTorch, Times Series Forecasting, Keras Tuner\n\n\nProject Repo:\nhttps://github.com/slaicha/fedCampus\n\n\nProject Report\nhttps://docs.google.com/document/d/14H0UPGZn32G3ihNV9H3IM5oeapewiNdy6prT77HLrGA/edit?usp=sharing\n\n\n\n\nDKU Sustainability Report\n\nSep 2022 - Nov 2023\n\nCollaborated with the water team to write the water sustainability section of the first DKU Water Sustainability Report by interviewing DKU Campus Operations about water sustainability measures on campus, analyzing water consumption data, and researching relevant indicators of water sustainability"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome!",
+    "section": "",
+    "text": "Welcome to my website! My name is Aicha Slaitane. Here you’ll find information about my education, research experience, professional experience, and leadership and service experience.\nEnjoy some of my pictures from the last few years at Duke and Duke Kunshan Universtity!\n\n\n\n\n\n\n\n\nWandering through nature’s embrace in Suzhou, China\n\n\n\n\n\n\n\nStepping into the light of knowledge at Duke University\n\n\n\n\n\n\n\n\n\nPoster Presentation for my Bass Connections Project at Duke University\n\n\n\n\n\n\n\n\n\nMy Research Team during Summer 2023 at Duke Kunshan Campus\n\n\n\n\n\n\n\n\n\nFootball Vasrity Team Spirit!\n\n\n\n\n\n\n\n\n\nAfter Scoring a Goal!"
+  }
+]
